@@ -6,4 +6,4 @@ Hoja de Vida de una sola página.
 
 Puedes encontrar el proyecto en el siguiente enlace:
 
-[https://github.com/JCARBAJALC/Page-CV]
+[https://roadmap.sh/projects/single-page-cv]
